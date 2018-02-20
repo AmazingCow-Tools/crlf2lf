@@ -328,3 +328,4 @@ build
 
 lhcrc
 
+cmake-build-debug/
