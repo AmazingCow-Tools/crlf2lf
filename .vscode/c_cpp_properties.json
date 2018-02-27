@@ -36,7 +36,13 @@
                 "path": [
                     "/usr/include",
                     "/usr/local/include",
-                    "${workspaceRoot}"
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/libs/CoreAssert",
+                    "${workspaceRoot}/libs/CoreFile",
+                    "${workspaceRoot}/libs/CoreFS",
+                    "${workspaceRoot}/libs/CoreString",
+                    "${workspaceRoot}/libs/CoreLog",
+                    "${workspaceRoot}/libs/libtermcolor"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
