@@ -1,6 +1,3 @@
-[submodule "libs/CoreFS"]
-	path = libs/CoreFS
-	url = https://github.com/AmazingCow-Libs/CoreFS
 [submodule "libs/CoreLog"]
 	path = libs/CoreLog
 	url = https://github.com/AmazingCow-Libs/CoreLog
