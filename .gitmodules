@@ -16,6 +16,3 @@
 [submodule "libs/CoreString"]
 	path = libs/CoreString
 	url = https://github.com/AmazingCow-Libs/CoreString
-[submodule "libs/acow_nt_posix"]
-	path = libs/acow_nt_posix
-	url = https://github.com/AmazingCow-Libs/acow_nt_posix
