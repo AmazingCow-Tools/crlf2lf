@@ -1,9 +1,6 @@
 [submodule "libs/CoreFile"]
 	path = libs/CoreFile
 	url = https://github.com/AmazingCow-Libs/CoreFile
-[submodule "libs/CoreAssert"]
-	path = libs/CoreAssert
-	url = https://github.com/AmazingCow-Libs/CoreAssert
 [submodule "libs/CoreFS"]
 	path = libs/CoreFS
 	url = https://github.com/AmazingCow-Libs/CoreFS
