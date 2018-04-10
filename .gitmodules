@@ -1,6 +1,3 @@
-[submodule "libs/CoreLog"]
-	path = libs/CoreLog
-	url = https://github.com/AmazingCow-Libs/CoreLog
 [submodule "libs/libtermcolor"]
 	path = libs/libtermcolor
 	url = https://github.com/AmazingCow-Libs/libtermcolor
